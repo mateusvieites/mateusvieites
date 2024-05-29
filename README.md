@@ -14,3 +14,6 @@ Outside of the work environment, an enthusiast of new technologies and market tr
 
 # ⚙ IDEs And Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![notepad](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)![PRETTIER](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E) ![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white) ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white) 
+
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusvieites)](https://github.com/anuraghazra/github-readme-stats)
